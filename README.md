@@ -46,6 +46,8 @@ Try to do the assignments by your own. Use these as a reference material if you 
 * **Assignments & Labs**
   * [Notebooks](https://github.com/MohamedBadwy360/Machine-Learning-Specialization/tree/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Labs%20%26%20Assignments)
 
+---
+
 ## `Certificate`
 
 ![Machine Learning Specialization Certificate](/Certificate/Machine%20Learning%20Specialization.png)
