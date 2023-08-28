@@ -1,6 +1,6 @@
 # Machine-Learning-Specialization
 
-This Repository contains Notebooks, slides and my assignments for Machine Learning Specialization Course from Coursera.
+This Repository contains Notebooks, slides and my assignments for [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) Course from Coursera.
 
 This repo is for my personal reference.
 
